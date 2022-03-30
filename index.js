@@ -2,7 +2,7 @@ const updatecommands = require("./updatecommands")
 const buildembed = require("./buildembed")
 const logger = require("./logger")
 const user = require("./user")
-token = "OTU2NzE1MjIwMDcwNDUzMzE4.Yj0Qew.f1VKCR0vMqkIrUBh0pEuCNuZT-8"
+token = "<Insert token here>"
 clientid = "956715220070453318"
 guildid = "885884308529741824"
 updatecommands.updatecommands(token, clientid, guildid)
